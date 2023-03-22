@@ -2,7 +2,7 @@
   "name": "tetrisApp",
   "subdomain": "captainlonate1",
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   "version": "0.0.1-61",
   "engines": {

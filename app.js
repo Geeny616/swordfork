@@ -26,7 +26,7 @@ var wsServer = new webSocketServer({
     httpServer: server
 });
 
-var pport = process.env.PORT || 5000;
+var pport = process.env.PORT || 5001;
 
 // Set up the http server
 server.listen(pport, function(err) {
